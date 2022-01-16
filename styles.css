@@ -76,12 +76,14 @@ Logo Section
     grid-template-columns: repeat(3, 1fr);
     margin-left: 8%;
     
+    
 }
 .collections img{
     width: 100%;
 }
 .collection{
     background-color: whitesmoke;
+    border-radius: 10px;
     padding-left: 5%;
     padding-right: 5%;
     padding-top: 5%;
