@@ -15,7 +15,9 @@ font-family: 'Roboto Condensed', sans-serif;
 }
 .name:hover{
     transform: scale(1.3);
-    background-color: pink;
+    background-color: lightsalmon;
+    width: 145px;
+    border-radius: 10px;
 }
 
 /*---------------
@@ -51,6 +53,7 @@ font-family: 'Roboto Condensed', sans-serif;
     text-decoration: none;
     font-weight: 700;
 }
+ 
 /*----------------- 
 Logo Section 
 -----------------*/
@@ -75,6 +78,7 @@ Logo Section
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     margin-left: 8%;
+   
     
     
 }
@@ -89,6 +93,7 @@ Logo Section
     padding-top: 5%;
     margin-right: 8%;
     margin-bottom: 8%;
+    box-shadow: 6px 6px 20px #5E6366;
 }
 /*----------------
  All Star's and info
@@ -126,6 +131,7 @@ Logo Section
 .extra img{
     width: 75%;
     height: auto;
+    box-shadow: 6px 6px 20px #5E6366;
 }
 .color{
     color: violet;
@@ -174,3 +180,5 @@ Logo Section
 /*-----------------------------------------------------------------------------------------------------------------
                                               This is End   
  -----------------------------------------------------------------------------------------------------------------*/
+
+
